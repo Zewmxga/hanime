@@ -5,7 +5,7 @@ import json
 import os
 
 
-api_base = "https://hanime-api-kohl.vercel.app"
+api_base = ""
 
 
 def get_data(api_url):
