@@ -5,7 +5,7 @@ import json
 import os
 
 
-api_base = "https://modd-hanime-api.onrender.com"
+api_base = "https://hanime-api-kohl.vercel.app"
 
 
 def get_data(api_url):
